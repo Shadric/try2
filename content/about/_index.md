@@ -1,10 +1,8 @@
 ---
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
+description: 'I am an Actuary and Data Scientist with experience in Insurance, Pension and Business Intelligence.'
 featured_image: ""
 title: About
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/shad.jpg" title= "Shadrick Simumba" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+My name is Shadrick Simumba,I hold a Bachelor’s degree in Actuarial Science and Financial Mathematics and Honors degree in Mathematical Statistics both from the University of Pretoria, South Africa. I am a Data Analyst who is passionate about using data and data driven technologies to solve problems and make valuable decisions that would improve productivity and help companies achieve their goals. This has been the driving force behind my career and self development pursuit . In line with this, I have acquired skills in programming (Python and R), Data cleaning and Data visualization using Business Intelligence tools like  Power BI as well as using MySQL for querying data in databases and enrolling for several online courses in order to develop this skills. I have working experience in analyzing and visualizing data in the finance sector. I have keen interest in Innovation, finance and data analytics.

@@ -1,7 +1,9 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Shadrick Simumba"
+baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -17,14 +19,14 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "This is my simple static website."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/shadric/"
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/shadrick-simumba/"
   mastodon = ""
   slack = ""
   stackoverflow = ""

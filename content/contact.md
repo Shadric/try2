@@ -20,4 +20,3 @@ LinkedIn:	https://www.linkedin.com/in/shadrick-simumba
 
 Github:	https://github.com/Shadric 
 
-Medium:	
